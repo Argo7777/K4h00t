@@ -47,7 +47,7 @@ const handle = document.createElement('div');
 handle.className = 'handle';
 handle.style.fontFamily = '"Montserrat", "Noto Sans Arabic", "Helvetica Neue", Helvetica, Arial, sans-serif;';
 handle.style.fontSize = '1.5vw';
-handle.textContent = 'KaHack!';
+handle.textContent = 'K4h00t!';
 handle.style.color = 'white';
 handle.style.width = '97.5%';
 handle.style.height = '2.5vw';
@@ -409,7 +409,7 @@ inputLagLabel.style.color = 'white';
 uiElement.appendChild(inputLagLabel);
 
 const versionLabel = document.createElement('h1');
-versionLabel.textContent = 'KaHack! V'+Version;
+versionLabel.textContent = 'K4h00t! V'+Version;
 versionLabel.style.fontFamily = '"Montserrat", "Noto Sans Arabic", "Helvetica Neue", Helvetica, Arial, sans-serif;';
 versionLabel.style.fontSize = '2.5vw';
 versionLabel.style.display = 'block';
